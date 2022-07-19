@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chinmay Singh (@hgnis-yamnihc).
+- 👀 I’m interested in Data Science roles.
+- 🌱 I’m currently learning Deep learning as a part of Data Science course.
+- 💞️ I’m looking to collaborate on Data Science projects.
+- 📫 How to reach me singh.chinmay12@gmail.com.
